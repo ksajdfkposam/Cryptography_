@@ -1,0 +1,28 @@
+.inp{
+    height: 2rem;
+    width: 20rem;
+   
+   
+}
+
+
+
+.btn{
+    
+    margin-top: 100px;
+}
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+.search-bar input{
+    position: fixed;
+    top: 10%;
+    left: 7%;
+}
+.btn{
+    margin-left: 10px;
+}
+}
